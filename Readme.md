@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+* [Program.cs](./CS/WindowsFormsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication1/Program.vb))
+* [StringSample.cs](./CS/WindowsFormsApplication1/StringSample.cs) (VB: [StringSample.vb](./VB/WindowsFormsApplication1/StringSample.vb))
+<!-- default file list end -->
 # How to add (remove) a specific watermark only for a particular section of the RichEditControl's document
 
 
